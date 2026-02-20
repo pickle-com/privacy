@@ -300,7 +300,7 @@ privacy/
 - [ ] Verification Tools
 - [ ] Architecture Documentation
 
-Code and builds will be published in January 2026. Watch this repository for updates.
+Code and builds will be published in March 2026. The original target was January, but we took extra time to generalize the architecture so that it can be adopted by any service — not just Pickle. Watch this repository for updates.
 
 ---
 
